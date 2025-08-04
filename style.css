@@ -7,3 +7,13 @@
  --borda:#daa520;
  --fonte-principal:'Montserrat:ital';
 }
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+.conteudo-titulo{
+    text-align: center;
+}
+*{
+    font-weight: 400;
+}
