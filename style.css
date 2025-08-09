@@ -5,6 +5,8 @@
  --fundo-senha:#c8a2c8;
  --fundo-texto: #d8bfd8;
  --borda: #9370db;
+ --contraste:#6a5acd;
+ --texto-escuro: #2e2e2e;
  --fonte-principal:'Montserrat:ital';
 }
 body{
