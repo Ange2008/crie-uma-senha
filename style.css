@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mozilla+Text:wght@200..700&display=swap');
 :root{
  --branco:white;
- --cor-de-fundo:#ff4b2b;
- --fundo-senha:#ffb400;
- --fundo-texto:#ffb400;
- --borda: #ff7f50;
+ --cor-de-fundo:#b57edc;
+ --fundo-senha:#c8a2c8;
+ --fundo-texto: #d8bfd8;
+ --borda: #9370db;
  --fonte-principal:'Montserrat:ital';
 }
 body{
